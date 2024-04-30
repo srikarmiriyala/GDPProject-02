@@ -1,3 +1,3 @@
-# GDPProject-02
+# GDPProject-02 - TravelBuddy
 
-Welcome to TravelBuddy app!
+Welcome to TravelBuddy web app!

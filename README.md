@@ -1,2 +1,3 @@
 # GDPProject-02
-GDP Project repository
+
+Welcome to TravelBuddy app!

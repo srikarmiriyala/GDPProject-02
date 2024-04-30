@@ -16,3 +16,5 @@ Optimization for battery efficiency and device performance
 Trip planner with interactive maps and itinerary creation tools.
 Destination guides with information about local attractions and amenities.
 Booking interface for flights, hotels, and transportation.
+
+With TravelBuddy, you can effortlessly plan your itinerary, book accommodations, and discover exciting attractions—all in one convenient app. Say goodbye to the hassle of juggling multiple tabs and apps to plan your trip.

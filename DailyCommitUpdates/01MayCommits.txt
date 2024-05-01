@@ -1,0 +1,3 @@
+Problem Statement (Draft 1):
+
+The current process of planning trips is disjointed and inefficient, as travelers have to gather information from multiple sources and tools. There's no centralized platform, so users must manually gather and organize trip details from various sources, making the experience cumbersome and time-consuming.

@@ -6,6 +6,6 @@ The current process of planning trips is disjointed and inefficient, as traveler
 
 2.Lack of Centralized Platform:One of the main problems with the current process is the lack of a central platform for planning trips. Without a single interface to gather all trip details, travelers must deal with multiple sources of information, leading to confusion and inefficiency.
 
-3.Travelers' task of organizing their trips is made more difficult by the dearth of thorough destination guides. Users may find it difficult to make well-informed decisions regarding their travel plans and risk missing out on important experiences if they lack access to comprehensive information on local services, attractions, and areas of interest. 
+3.Inadequate Destination Guides:Travelers' task of organizing their trips is made more difficult by the dearth of thorough destination guides. Users may find it difficult to make well-informed decisions regarding their travel plans and risk missing out on important experiences if they lack access to comprehensive information on local services, attractions, and areas of interest. 
 
 4.Absence of Real-time Booking Integration: In order to book flights, hotels, and other travel-related services in real time, the existing procedure does not integrate with travel APIs. Travelers thus have to navigate between numerous tabs and apps in order to finish bookings, which makes the process confusing and time-consuming. 

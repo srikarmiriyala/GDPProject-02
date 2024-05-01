@@ -1,3 +1,5 @@
 Problem Statement (Draft 1):
 
 The current process of planning trips is disjointed and inefficient, as travelers have to gather information from multiple sources and tools. There's no centralized platform, so users must manually gather and organize trip details from various sources, making the experience cumbersome and time-consuming.
+
+1.Challenges and Inefficiencies:The current process of planning trips is hindered by several challenges and inefficiencies. These include problems in choosing destinations, dates, and activities. Additionally, travelers encounter difficulties accessing thorough destination guides, making immediate bookings for accommodations and transportation, and managing trips when offline or in areas with limited connectivity.

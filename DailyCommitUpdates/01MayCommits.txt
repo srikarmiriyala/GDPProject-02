@@ -9,3 +9,17 @@ The current process of planning trips is disjointed and inefficient, as traveler
 3.Inadequate Destination Guides:Travelers' task of organizing their trips is made more difficult by the dearth of thorough destination guides. Users may find it difficult to make well-informed decisions regarding their travel plans and risk missing out on important experiences if they lack access to comprehensive information on local services, attractions, and areas of interest. 
 
 4.Absence of Real-time Booking Integration: In order to book flights, hotels, and other travel-related services in real time, the existing procedure does not integrate with travel APIs. Travelers thus have to navigate between numerous tabs and apps in order to finish bookings, which makes the process confusing and time-consuming. 
+
+5. Issues with Offline Functionality :
+  Problems with Out-of-Office Features Travelers who could experience spotty internet service on their travels face difficulties because the available offline capability in trip planning applications is insufficient. Complicating the planning process even more, customers who lack offline skills cannot make reservations or access crucial travel information when offline. 
+
+6. Concerns Regarding Device Performance and Battery Efficiency:
+  Lack of optimization for device performance and battery economy is another problem with the existing technique. Travelers who use mobile devices to plan and manage their excursions may encounter poor performance and shorter battery life if optimization measures are not implemented. 
+
+
+
+
+
+
+ 
+ 

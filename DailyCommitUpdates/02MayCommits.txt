@@ -24,3 +24,7 @@ Optimization for battery efficiency and device performance to ensure a smooth us
 -->Secure user authentication and protection of personal travel data.
 -->Encryption of sensitive booking and payment information.
 -->Protection against unauthorized access to user accounts.
+7.Database:
+-->Utilization of either SQL or NoSQL database for efficient storage and retrieval of data.
+
+By implementing these functionalities, TravelBuddy aims to provide users with a seamless and enjoyable travel planning experience, addressing the current challenges and inefficiencies in the trip planning process.

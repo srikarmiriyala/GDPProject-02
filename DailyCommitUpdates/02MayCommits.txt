@@ -3,3 +3,10 @@ Project Charter (Iteration 1):
 Summary of the Problem: The problem involves the need for a comprehensive Travel Planning and Itinerary Management Application, known as TravelBuddy, to address the inefficiencies and challenges faced by travelers in planning and organizing trips. Currently, the process of trip planning is disjointed and inefficient, requiring users to gather information from multiple sources and tools. There's a lack of a centralized platform, leading to manual organization of trip details and a cumbersome user experience.
 
 Motivation for Solving the Problem: Implementing TravelBuddy will revolutionize the way travelers plan and manage their trips, significantly enhancing the efficiency and convenience of the travel planning process. By providing a centralized platform for trip planning, booking accommodations, and discovering attractions, TravelBuddy aims to streamline the entire travel experience. This system will address current operational challenges, improve user satisfaction, and elevate the overall quality of travel planning.
+
+Required Functionality: TravelBuddy should include the following features:
+1.Trip Planning and Organization:
+-->Intuitive tools for selecting destinations, dates, and activities.
+-->Interactive maps and itinerary creation tools for organizing trips efficiently.
+2.Destination Exploration:
+-->Comprehensive destination guides with information about local attractions, landmarks, and amenities.

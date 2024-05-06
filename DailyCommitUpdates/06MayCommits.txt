@@ -1,0 +1,7 @@
+Non-functional Requirements for TravelBuddy:
+
+Performance:
+
+The system should respond to user interactions promptly, with minimal latency.
+Page load times should be optimized to ensure a smooth user experience.
+The application should be capable of handling a large volume of concurrent users without significant degradation in performance.

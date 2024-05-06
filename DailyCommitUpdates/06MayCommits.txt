@@ -10,3 +10,7 @@ Reliability:
 The system should be highly available, with minimal downtime for maintenance or updates.
 It should be resilient to unexpected failures, with mechanisms in place for graceful degradation and fault tolerance.
 Data integrity should be maintained even during system failures or interruptions.
+
+Scalability:
+The system should be able to scale horizontally to accommodate an increasing number of users and data.
+It should support load balancing and auto-scaling to distribute traffic evenly and efficiently across servers.

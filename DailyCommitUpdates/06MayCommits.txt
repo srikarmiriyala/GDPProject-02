@@ -14,3 +14,8 @@ Data integrity should be maintained even during system failures or interruptions
 Scalability:
 The system should be able to scale horizontally to accommodate an increasing number of users and data.
 It should support load balancing and auto-scaling to distribute traffic evenly and efficiently across servers.
+
+Security:
+All user data should be encrypted both in transit and at rest to prevent unauthorized access.
+The system should implement robust authentication and authorization mechanisms to ensure that only authorized users can access sensitive information.
+Regular security audits and updates should be performed to identify and address potential vulnerabilities

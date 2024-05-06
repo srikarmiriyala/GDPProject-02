@@ -5,3 +5,8 @@ Performance:
 The system should respond to user interactions promptly, with minimal latency.
 Page load times should be optimized to ensure a smooth user experience.
 The application should be capable of handling a large volume of concurrent users without significant degradation in performance.
+Reliability:
+
+The system should be highly available, with minimal downtime for maintenance or updates.
+It should be resilient to unexpected failures, with mechanisms in place for graceful degradation and fault tolerance.
+Data integrity should be maintained even during system failures or interruptions.

@@ -19,3 +19,7 @@ Security:
 All user data should be encrypted both in transit and at rest to prevent unauthorized access.
 The system should implement robust authentication and authorization mechanisms to ensure that only authorized users can access sensitive information.
 Regular security audits and updates should be performed to identify and address potential vulnerabilities
+
+Usability:
+The user interface should be intuitive and user-friendly, requiring minimal training for users to navigate and utilize the application effectively.
+Accessibility features should be implemented to ensure that the application is usable by individuals with disabilities.

@@ -12,3 +12,19 @@ Description: User sets preferences such as preferred travel destinations, types 
 4.Interactive Maps and Itinerary Creation:
 Primary Actor: User
 Description: User utilizes interactive maps to explore destinations and creates detailed itineraries, adding activities, accommodations, and transportation options.
+Accessing Travel Guides:
+Primary Actor: User
+Description: User accesses comprehensive travel guides for selected destinations, featuring information on attractions, restaurants, local customs, and safety tips.
+Real-Time Booking through Travel APIs:
+Primary Actor: User
+Description: User makes real-time bookings for accommodations, flights, tours, and other travel services through integrated travel APIs.
+Viewing Trip Details and Schedules:
+Primary Actor: User
+Description: User views trip details, including itinerary, reservations, and schedules, presented in a calendar view for easy planning and management.
+Secure Data Storage and Retrieval:
+Primary Actor: System
+Description: System securely stores and retrieves user data, including preferences, reservations, and itineraries, ensuring data privacy and integrity.
+Intuitive User Interface:
+Primary Actor: User
+Description: User interacts with a clean and intuitive user interface for seamless navigation and efficient task management within the Travel Buddy platform.
+

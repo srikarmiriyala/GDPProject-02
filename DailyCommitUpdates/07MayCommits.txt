@@ -3,3 +3,6 @@ Use cases for the Travel Buddy system based on the provided functional requireme
 1. User Registration and Profile Creation:
   Primary Actor: User
   Description: User creates an account on the Travel Buddy platform, providing necessary information to set up a profile.
+2.Customizing Travel Preferences:
+Primary Actor: User
+Description: User sets preferences such as preferred travel destinations, types of activities, budget range, and travel dates.

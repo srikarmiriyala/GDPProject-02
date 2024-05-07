@@ -1,0 +1,5 @@
+Use cases for the Travel Buddy system based on the provided functional requirements:
+
+1.	User Registration and Profile Creation:
+  Primary Actor: User
+  Description: User creates an account on the Travel Buddy platform, providing necessary information to set up a profile.

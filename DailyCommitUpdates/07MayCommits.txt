@@ -9,3 +9,6 @@ Description: User sets preferences such as preferred travel destinations, types 
 3.Destination, Date, and Activity Selection:
   Primary Actor: User
   Description: User browses through available destinations, selects travel dates, and chooses activities based on their preferences.
+4.Interactive Maps and Itinerary Creation:
+Primary Actor: User
+Description: User utilizes interactive maps to explore destinations and creates detailed itineraries, adding activities, accommodations, and transportation options.

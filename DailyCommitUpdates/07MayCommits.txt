@@ -6,3 +6,6 @@ Use cases for the Travel Buddy system based on the provided functional requireme
 2.Customizing Travel Preferences:
 Primary Actor: User
 Description: User sets preferences such as preferred travel destinations, types of activities, budget range, and travel dates.
+3.Destination, Date, and Activity Selection:
+  Primary Actor: User
+  Description: User browses through available destinations, selects travel dates, and chooses activities based on their preferences.

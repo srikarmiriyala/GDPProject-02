@@ -1,30 +1,47 @@
 Use cases for the Travel Buddy system based on the provided functional requirements:
 
-1. User Registration and Profile Creation:
+1.User Registration and Profile Creation:
   Primary Actor: User
   Description: User creates an account on the Travel Buddy platform, providing necessary information to set up a profile.
 2.Customizing Travel Preferences:
-Primary Actor: User
-Description: User sets preferences such as preferred travel destinations, types of activities, budget range, and travel dates.
+  Primary Actor: User
+  Description: User sets preferences such as preferred travel destinations, types of activities, budget range, and travel      dates.
 3.Destination, Date, and Activity Selection:
   Primary Actor: User
-  Description: User browses through available destinations, selects travel dates, and chooses activities based on their preferences.
+  Description: User browses through available destinations, selects travel dates, and chooses activities based on their 
+  preferences.
 4.Interactive Maps and Itinerary Creation:
-Primary Actor: User
-Description: User utilizes interactive maps to explore destinations and creates detailed itineraries, adding activities, accommodations, and transportation options.
-Accessing Travel Guides:
-Primary Actor: User
-Description: User accesses comprehensive travel guides for selected destinations, featuring information on attractions, restaurants, local customs, and safety tips.
-Real-Time Booking through Travel APIs:
-Primary Actor: User
-Description: User makes real-time bookings for accommodations, flights, tours, and other travel services through integrated travel APIs.
-Viewing Trip Details and Schedules:
-Primary Actor: User
-Description: User views trip details, including itinerary, reservations, and schedules, presented in a calendar view for easy planning and management.
-Secure Data Storage and Retrieval:
-Primary Actor: System
-Description: System securely stores and retrieves user data, including preferences, reservations, and itineraries, ensuring data privacy and integrity.
-Intuitive User Interface:
-Primary Actor: User
-Description: User interacts with a clean and intuitive user interface for seamless navigation and efficient task management within the Travel Buddy platform.
+  Primary Actor: User
+  Description: User utilizes interactive maps to explore destinations and creates detailed itineraries, adding activities,     accommodations, and transportation options.
+5.Accessing Travel Guides:
+  Primary Actor: User
+  Description: User accesses comprehensive travel guides for selected destinations, featuring information on attractions,      restaurants, local customs, and safety tips.
+6.Real-Time Booking through Travel APIs:
+  Primary Actor: User
+  Description: User makes real-time bookings for accommodations, flights, tours, and other travel services through       
+  integrated travel APIs.
+7.Viewing Trip Details and Schedules:
+  Primary Actor: User
+  Description: User views trip details, including itinerary, reservations, and schedules, presented in a calendar view for 
+  easy planning and management.
+8.Secure Data Storage and Retrieval:
+  Primary Actor: System
+  Description: System securely stores and retrieves user data, including preferences, reservations, and itineraries, 
+  ensuring data privacy and integrity.
+9.Intuitive User Interface:
+  Primary Actor: User
+  Description: User interacts with a clean and intuitive user interface for seamless navigation and efficient task 
+  management within the Travel Buddy platform.
+10.Search and Filter Functionality:
+  Primary Actor: User
+  Description: User searches for specific destinations, activities, or dates and applies filters to refine search results 
+  within the platform.
+11.Real-Time Data Synchronization:
+  Primary Actor: System
+  Description: System synchronizes user data across multiple platforms in real-time to maintain consistency and 
+  accessibility across devices.
+12.Tracking Trip Planning Tasks:
+  Primary Actor: User
+  Description: User tracks the progress of trip planning tasks throughout their lifecycle, from initial research to booking 
+  and scheduling.
 

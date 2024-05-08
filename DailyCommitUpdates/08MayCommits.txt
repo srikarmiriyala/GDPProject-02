@@ -5,3 +5,9 @@ List of proposed prototypes for the Travel Buddy Web applicaton:
     Users can input their travel destination, dates, and preferences. 
     The app provides flight options along with recommendations for accommodations, activities, and transportation at the destination. 
     Users can book flights directly from the app and add other travel-related services.
+
+2.Personalized Flight Booking Assistant: 
+An AI-powered flight booking assistant within the Travel Buddy app. 
+Users can input their travel details, and the assistant provides personalized flight recommendations based on their preferences. 
+The assistant considers factors such as budget, preferred airlines, travel times, and layover durations. 
+Users can easily compare flight options, view detailed information, and book flights seamlessly. 

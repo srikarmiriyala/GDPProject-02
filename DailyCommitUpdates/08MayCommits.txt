@@ -1,0 +1,7 @@
+List of proposed prototypes for the Travel Buddy Web applicaton:
+
+1. Integrated Travel Planner and Flight Booking App: 
+    A comprehensive app that combines travel planning and flight booking features. 
+    Users can input their travel destination, dates, and preferences. 
+    The app provides flight options along with recommendations for accommodations, activities, and transportation at the destination. 
+    Users can book flights directly from the app and add other travel-related services.

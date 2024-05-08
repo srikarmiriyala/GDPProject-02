@@ -17,3 +17,6 @@ List of proposed prototypes for the Travel Buddy Web applicaton:
   Users can create group travel itineraries, invite friends or family members, and collaborate on trip planning. 
   The portal includes integrated flight booking features, allowing users to book flights for the entire group at once. 
   Users can manage group bookings, track flight details, and communicate with group members within the app. 
+
+4.Real-time Flight Price Tracker and Notification System: 
+A feature within the Travel Buddy app that tracks flight prices in real-time.Users can input their desired travel route and dates, and the app notifies them when flight prices drop or when there are special deals available.The app provides users with the option to book flights directly or save preferred flights for later booking. 

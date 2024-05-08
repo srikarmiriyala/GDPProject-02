@@ -20,3 +20,9 @@ List of proposed prototypes for the Travel Buddy Web applicaton:
 
 4.Real-time Flight Price Tracker and Notification System: 
 A feature within the Travel Buddy app that tracks flight prices in real-time.Users can input their desired travel route and dates, and the app notifies them when flight prices drop or when there are special deals available.The app provides users with the option to book flights directly or save preferred flights for later booking. 
+
+5. Multi-Platform Flight Booking System: 
+    -->A cross-platform flight booking system accessible via the Travel Buddy app and website. 
+    -->Users can search for and book flights from any device, including smartphones, tablets, and computers. 
+    -->The system provides a seamless user experience across all platforms, with synchronized data and booking history. 
+    

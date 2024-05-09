@@ -9,3 +9,5 @@ Trip
 Attributes: TripID (PK), DestinationID (FK), StartDate, EndDate, Price
 Destination
 Attributes: DestinationID (PK), Name, Description, Country
+Flight
+Attributes: FlightID (PK), Airline, DepartureTime, ArrivalTime, DepartureAirport, ArrivalAirport, Price

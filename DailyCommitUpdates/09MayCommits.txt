@@ -5,3 +5,7 @@ User
 Attributes: UserID (PK), Name, Email, Password, Phone
 Booking
 Attributes: BookingID (PK), UserID (FK), TripID (FK), FlightID (FK), BookingDate, Status
+Trip
+Attributes: TripID (PK), DestinationID (FK), StartDate, EndDate, Price
+Destination
+Attributes: DestinationID (PK), Name, Description, Country

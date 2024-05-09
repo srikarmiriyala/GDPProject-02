@@ -17,3 +17,14 @@ Attributes: PaymentID (PK), BookingID (FK), Amount, PaymentDate, PaymentMethod
 Attributes: ReviewID (PK), UserID (FK), TripID (FK), Rating, Comments, Date
 8.Activity
 Attributes: ActivityID (PK), DestinationID (FK), Name, Description, Type
+
+### Relationships:
+ 
+- **User to Bookings**: One-to-Many (A user can have multiple bookings).
+- **Trip to Bookings**: One-to-Many (A trip can have multiple bookings associated with it, possibly representing different users or different aspects like flights and accommodations).
+- **Flight to Bookings**: One-to-Many (A flight can be part of multiple bookings).
+- **Destination to Trip**: One-to-Many (A destination can host multiple trips).
+- **Destination to Activity**: One-to-Many (A destination can offer multiple activities).
+- **User to Review**: One-to-Many (A user can write multiple reviews on different trips).
+- **Trip to Review**: One-to-Many (A trip can receive multiple reviews from different users).
+- **Booking to Payment**: One-to-One (Typically, each booking results in a single payment transaction, although this could vary based on business rules).

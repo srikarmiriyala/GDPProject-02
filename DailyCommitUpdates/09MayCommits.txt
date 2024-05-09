@@ -11,3 +11,5 @@ Destination
 Attributes: DestinationID (PK), Name, Description, Country
 Flight
 Attributes: FlightID (PK), Airline, DepartureTime, ArrivalTime, DepartureAirport, ArrivalAirport, Price
+Payment
+Attributes: PaymentID (PK), BookingID (FK), Amount, PaymentDate, PaymentMethod

@@ -1,11 +1,7 @@
-PPT slides based on the functional requirements for the Travel Buddy system:
-________________________________________
-Slide 1: Title Slide
-•	Title: Introducing Travel Buddy: Your Ultimate Travel Planning Companion
-•	Subtitle: Fulfilling Your Travel Needs Seamlessly
-•	[Optional: Add imagery related to travel, such as a world map or an airplane]
-________________________________________
-Slide 2: User Registration and Profile Creation
-•	Bullet Points:
-•	Allow users to register and create profiles.
-•	Users can manage personal information and preferences.
+Data Management Plan:
+
+Entities:
+User
+Attributes: UserID (PK), Name, Email, Password, Phone
+Booking
+Attributes: BookingID (PK), UserID (FK), TripID (FK), FlightID (FK), BookingDate, Status

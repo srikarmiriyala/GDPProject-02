@@ -13,3 +13,5 @@ Flight
 Attributes: FlightID (PK), Airline, DepartureTime, ArrivalTime, DepartureAirport, ArrivalAirport, Price
 Payment
 Attributes: PaymentID (PK), BookingID (FK), Amount, PaymentDate, PaymentMethod
+Review
+Attributes: ReviewID (PK), UserID (FK), TripID (FK), Rating, Comments, Date

@@ -1,0 +1,11 @@
+PPT Presentation: Travel Buddy
+
+Project Outline:
+  Introduction
+  Problem Statement
+  Proposed Solution
+  Functional Requirements
+  Non-Functional Requirements
+  Use Cases/User Stories
+  Data Management Plan
+  Conclusion

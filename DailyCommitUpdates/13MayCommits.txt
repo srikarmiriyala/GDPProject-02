@@ -51,4 +51,21 @@ Functional Requirements:
 5.Code Quality & Stability​
 6.Secure Data​
 7.Optimal Device Performance​
+
+What have been accomplished?​
+
+Implementing TravelBuddy will revolutionize the travel planning experience, significantly enhancing efficiency and convenience. ​
+
+By offering a centralized platform for trip planning, and discovering attractions, TravelBuddy will streamline the entire travel process.​
+
+Addressing current operational challenges, this system will greatly improve user satisfaction and elevate the overall quality of travel planning, making it more accessible and enjoyable for travelers.​
+
+Lessons Learnt:​
+
+Efficient resource management within budget and timeline constraints is crucial for project success.​
+
+Adhering to regulations and app store guidelines is essential for successful deployment.​
+
+Continuous improvement based on user feedback requires collaboration and communication among team members.​
+
 ​

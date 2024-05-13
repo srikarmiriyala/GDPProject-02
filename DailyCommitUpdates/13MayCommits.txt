@@ -17,4 +17,13 @@ Suitable for both weekend getaways and month-long adventures.​
 Seamlessly integrates trip planning, booking, and exploration.​
 Provides a seamless and enjoyable travel experience​.
 
+Problem Statement
+Challenges & Inefficiencies​
+Lack of Centralized Platform​
+Inadequate Destination Guides​
+Absence of Real-time Booking Integration​
+Issues with Offline Functionality​
+Impact on Traveler Experience​
+
+​
 ​

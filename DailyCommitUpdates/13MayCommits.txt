@@ -31,5 +31,24 @@ Comprehensive Trip Planning​
 Secure Booking and Payment System​
 Personalized Recommendations​
 Robust Data Management
-​
+
+Functional Requirements:
+1.User Registration & Profiles​
+2.Planning Tools: Destinations, Dates, Flights​
+3.Interactive Maps & Itinerary Creation​
+4.Detailed Flight Guides: Destinations, Airlines​
+5.Real-Time Booking & Payment Integration​
+6.Calendar View for Schedules​
+7.Secure Data Storage: Preferences, Reservations​
+8.Intuitive User Interface​
+9.Search & Filter Functionality
+
+​Non-Functional Requirements:
+1.​Robust Performance​
+2.Intuitive Interface​
+3.Cross-Platform Compatibility​
+4.Modular & Well-Documented Code​
+5.Code Quality & Stability​
+6.Secure Data​
+7.Optimal Device Performance​
 ​

@@ -17,3 +17,5 @@ The system SHOULD:
 
 The system MAY:
 Enable collaboration among users by allowing sharing updates and comments on flight plans.
+Set deadlines for flight booking tasks based on user input.
+Send reminders to users about upcoming flight deadlines.

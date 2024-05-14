@@ -1,0 +1,6 @@
+Functional Requirements for Travel Buddy:
+
+The system SHALL:
+  Allow users to register and create profiles.
+  Provide tools for planning and selecting destinations, dates, and flight options.
+  Offer interactive maps and flight itinerary creation features.

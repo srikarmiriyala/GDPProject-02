@@ -8,3 +8,5 @@ The system SHALL:
   Facilitate real-time booking for flights through integration with airline APIs and confirm payment.
   Display flight details and schedules in a calendar view to aid in planning.
   Store and retrieve user data, including preferences, flight reservations, and itineraries, securely.
+  Ensure a clean and intuitive user interface for seamless navigation and flight management.
+  Offer search and filter functionality for flight options.

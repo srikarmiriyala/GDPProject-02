@@ -14,3 +14,6 @@ The system SHALL:
 The system SHOULD:
   Synchronize user data across platforms in real-time for consistency.
   Track the progress of flight booking tasks throughout their lifecycle.
+
+The system MAY:
+Enable collaboration among users by allowing sharing updates and comments on flight plans.

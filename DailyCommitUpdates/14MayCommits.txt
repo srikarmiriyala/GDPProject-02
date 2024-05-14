@@ -10,3 +10,7 @@ The system SHALL:
   Store and retrieve user data, including preferences, flight reservations, and itineraries, securely.
   Ensure a clean and intuitive user interface for seamless navigation and flight management.
   Offer search and filter functionality for flight options.
+
+The system SHOULD:
+  Synchronize user data across platforms in real-time for consistency.
+  Track the progress of flight booking tasks throughout their lifecycle.

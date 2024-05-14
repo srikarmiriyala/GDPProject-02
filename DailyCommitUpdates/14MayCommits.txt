@@ -4,3 +4,7 @@ The system SHALL:
   Allow users to register and create profiles.
   Provide tools for planning and selecting destinations, dates, and flight options.
   Offer interactive maps and flight itinerary creation features.
+  Present detailed flight guides for exploring destinations and airlines.
+  Facilitate real-time booking for flights through integration with airline APIs and confirm payment.
+  Display flight details and schedules in a calendar view to aid in planning.
+  Store and retrieve user data, including preferences, flight reservations, and itineraries, securely.

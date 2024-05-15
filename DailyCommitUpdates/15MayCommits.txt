@@ -15,3 +15,12 @@ Securely save and update preferences.
 Input: User preferences for seating.
 Execution: Save preferences securely.
 Output: Confirmation of successful customization.
+
+Use Case 3: Trip Planning and Destination Selection
+
+Functionality:
+Accept user input for destination, dates, budget.
+Present destination, flight options.
+Input: User preferences: destination, dates, budget.
+Execution: Retrieve and present relevant options.
+Output: Present various options, confirm selected itinerary.

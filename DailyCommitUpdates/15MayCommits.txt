@@ -24,3 +24,12 @@ Present destination, flight options.
 Input: User preferences: destination, dates, budget.
 Execution: Retrieve and present relevant options.
 Output: Present various options, confirm selected itinerary.
+
+Use Case 4: Interactive Map Exploration
+
+Functionality:
+Grant access to interactive maps.
+Offer real-time info and recommendations.
+Input: User inputs: destinations, preferences.
+Execution: Retrieve data, present interactive map.
+Output: Display interactive map with recommendations.

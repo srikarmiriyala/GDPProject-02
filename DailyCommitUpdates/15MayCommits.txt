@@ -7,3 +7,11 @@ Use Case 1: User Registration and Profile Creation
 •	Input: User details: email, password, name, DOB.
 •	Execution: Validate and securely store data.
 •	Output: Confirmation of successful registration, access to dashboard.
+
+Use Case 2: Travel Preferences Customization
+Functionality:
+Access profile settings to customize preferences.
+Securely save and update preferences.
+Input: User preferences for seating.
+Execution: Save preferences securely.
+Output: Confirmation of successful customization.

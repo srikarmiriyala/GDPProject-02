@@ -50,3 +50,20 @@ Synchronize data, provide notifications.
 Input: Itinerary details.
 Execution: Populate calendar, issue notifications.
 Output: Display itinerary with notifications.
+
+Use Case 7: Secure Data Storage and Retrieval
+
+Functionality:
+Securely store, retrieve user data.
+Input: User data: profile, preferences, bookings.
+Execution: Implement secure storage, retrieval.
+Output: Confirmation of secure storage, retrieval.
+
+
+Use Case 8: Flight Options Filtering
+
+Functionality:
+Allow search, filter flights by criteria.
+Input: Search criteria: airline, time, price.
+Execution: Retrieve, filter options.
+Output: Display filtered options for selection.

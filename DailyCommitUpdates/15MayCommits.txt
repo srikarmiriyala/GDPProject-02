@@ -1,0 +1,9 @@
+Use Cases (Iteration 2) for Travel Buddy System:
+
+Use Case 1: User Registration and Profile Creation
+•	Functionality:
+   o	Collect registration details: email, password, personal info.
+   o	Grant access to personalized dashboards.
+•	Input: User details: email, password, name, DOB.
+•	Execution: Validate and securely store data.
+•	Output: Confirmation of successful registration, access to dashboard.

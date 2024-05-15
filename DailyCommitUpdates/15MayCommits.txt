@@ -33,3 +33,20 @@ Offer real-time info and recommendations.
 Input: User inputs: destinations, preferences.
 Execution: Retrieve data, present interactive map.
 Output: Display interactive map with recommendations.
+
+Use Case 5: Flight Booking and Payment
+
+Functionality:
+Allow flight search, selection, booking, payment.
+Input: Destination, dates, preferences, payment info.
+Execution: Retrieve flights, process booking, payment.
+Output: Confirmation of successful booking, receipt.
+
+Use Case 6: Calendar View and Itinerary Management
+
+Functionality:
+Grant access to calendar view of itineraries.
+Synchronize data, provide notifications.
+Input: Itinerary details.
+Execution: Populate calendar, issue notifications.
+Output: Display itinerary with notifications.

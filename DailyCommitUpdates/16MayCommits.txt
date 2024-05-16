@@ -1,0 +1,6 @@
+Software requirements specification (SRS) wiki URL: https://github.com/srikarmiriyala/GDPProject-02/wiki/Software-requirements-specification-(SRS)
+
+Software requirements specification (SRS): 
+Project Information
+•	Project Charter: https://github.com/srikarmiriyala/GDPProject-02/wiki/Project-Charter-(Iteration-1)
+•	Developer About Pages: https://github.com/srikarmiriyala/GDPProject-02/wiki/About-the-Developers

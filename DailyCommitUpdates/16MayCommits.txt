@@ -12,3 +12,8 @@ Non-functional Requirements: [Link to Non-functional Requirements document]
 Data Management Plan: [Link to Data Management Plan document] 
 Proposed Prototypes: [Link to Proposed Prototypes document]
 Prototypes: [Link to Prototypes]
+
+ 
+
+Meeting Minutes 
+[Date of Meeting 1]: [Link to Meeting Minutes for Meeting 1] 

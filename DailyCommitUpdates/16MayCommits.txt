@@ -4,3 +4,8 @@ Software requirements specification (SRS):
 Project Information
 •	Project Charter: https://github.com/srikarmiriyala/GDPProject-02/wiki/Project-Charter-(Iteration-1)
 •	Developer About Pages: https://github.com/srikarmiriyala/GDPProject-02/wiki/About-the-Developers
+
+Design 
+Use Cases: [Link to Use Cases document] 
+Functional Requirements: [Link to Functional Requirements document] 
+Non-functional Requirements: [Link to Non-functional Requirements document] 

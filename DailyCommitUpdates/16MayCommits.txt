@@ -23,3 +23,16 @@ Continue listing all meeting minutes
 
 Development :
 [Link to Development page] 
+
+# Seed Data:
+-Instructions for Loading Test Data into MongoDB
+ 
+Overview:
+This document provides detailed instructions on how to import the provided JSON seed data into a MongoDB database. This process is essential for setting up a controlled testing environment, ensuring that testing does not occur on production data.
+
+Prerequisites:
+**MongoDB Installation**: Ensure that MongoDB is installed on your system. If not, download and install it from [MongoDB's official site](https://www.mongodb.com/try/download/community).
+**MongoDB Tools**: Make sure that MongoDB command line tools are installed, specifically `mongoimport`, which is used for importing data.
+ 
+Seed Data File:
+The seed data for this project is contained in a JSON file named `sample_travel_data.json`. This file includes collections such as users, destinations, trips, bookings, flights, activities, reviews, payments, and packing checklists.

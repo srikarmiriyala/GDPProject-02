@@ -1,0 +1,343 @@
+{
+    "users": [
+        {
+            "_id": "user1",
+            "Name": "John Doe",
+            "Email": "johndoe@example.com",
+            "Password": "hashed_password",
+            "Phone": "1234567810"
+        },
+        {
+            "_id": "user2",
+            "Name": "Jane Smith",
+            "Email": "janesmith@example.com",
+            "Password": "hashed_password",
+            "Phone": "1234567820"
+        },
+        {
+            "_id": "user3",
+            "Name": "Alice Johnson",
+            "Email": "alicejohnson@example.com",
+            "Password": "hashed_password",
+            "Phone": "1234567830"
+        },
+        {
+            "_id": "user4",
+            "Name": "Bob Brown",
+            "Email": "bobbrown@example.com",
+            "Password": "hashed_password",
+            "Phone": "1234567840"
+        },
+        {
+            "_id": "user5",
+            "Name": "Charlie Davis",
+            "Email": "charliedavis@example.com",
+            "Password": "hashed_password",
+            "Phone": "1234567850"
+        }
+    ],
+    "destinations": [
+        {
+            "_id": "destination1",
+            "Name": "Paris",
+            "Description": "Beautiful city known for its rich history and culture.",
+            "Country": "France"
+        },
+        {
+            "_id": "destination2",
+            "Name": "Rome",
+            "Description": "Beautiful city known for its rich history and culture.",
+            "Country": "Italy"
+        },
+        {
+            "_id": "destination3",
+            "Name": "Barcelona",
+            "Description": "Beautiful city known for its rich history and culture.",
+            "Country": "Spain"
+        }
+    ],
+    "trips": [
+        {
+            "_id": "trip1",
+            "DestinationID": "destination1",
+            "StartDate": "2024-06-05T00:00:00",
+            "EndDate": "2024-06-13T00:00:00",
+            "Field": "Vacation"
+        },
+        {
+            "_id": "trip2",
+            "DestinationID": "destination2",
+            "StartDate": "2024-06-01T00:00:00",
+            "EndDate": "2024-06-12T00:00:00",
+            "Field": "Vacation"
+        },
+        {
+            "_id": "trip3",
+            "DestinationID": "destination3",
+            "StartDate": "2024-06-09T00:00:00",
+            "EndDate": "2024-06-17T00:00:00",
+            "Field": "Vacation"
+        },
+        {
+            "_id": "trip4",
+            "DestinationID": "destination1",
+            "StartDate": "2024-06-10T00:00:00",
+            "EndDate": "2024-06-15T00:00:00",
+            "Field": "Vacation"
+        },
+        {
+            "_id": "trip5",
+            "DestinationID": "destination2",
+            "StartDate": "2024-06-10T00:00:00",
+            "EndDate": "2024-06-18T00:00:00",
+            "Field": "Vacation"
+        }
+    ],
+    "bookings": [
+        {
+            "_id": "booking1",
+            "UserID": "user1",
+            "TripID": "trip1",
+            "FlightID": "flight1",
+            "BookingDate": "2024-05-20",
+            "Status": "Confirmed"
+        },
+        {
+            "_id": "booking2",
+            "UserID": "user2",
+            "TripID": "trip2",
+            "FlightID": "flight2",
+            "BookingDate": "2024-05-20",
+            "Status": "Confirmed"
+        },
+        {
+            "_id": "booking3",
+            "UserID": "user3",
+            "TripID": "trip3",
+            "FlightID": "flight3",
+            "BookingDate": "2024-05-20",
+            "Status": "Confirmed"
+        },
+        {
+            "_id": "booking4",
+            "UserID": "user4",
+            "TripID": "trip4",
+            "FlightID": "flight4",
+            "BookingDate": "2024-05-20",
+            "Status": "Confirmed"
+        },
+        {
+            "_id": "booking5",
+            "UserID": "user5",
+            "TripID": "trip5",
+            "FlightID": "flight5",
+            "BookingDate": "2024-05-20",
+            "Status": "Confirmed"
+        }
+    ],
+    "flights": [
+        {
+            "_id": "flight1",
+            "Airline": "Air France",
+            "DepartureTime": "10:00",
+            "ArrivalTime": "14:00",
+            "DepartureAirport": "JFK",
+            "ArrivalAirport": "CDG",
+            "Price": 500
+        },
+        {
+            "_id": "flight2",
+            "Airline": "Alitalia",
+            "DepartureTime": "10:00",
+            "ArrivalTime": "14:00",
+            "DepartureAirport": "JFK",
+            "ArrivalAirport": "CDG",
+            "Price": 500
+        },
+        {
+            "_id": "flight3",
+            "Airline": "Iberia",
+            "DepartureTime": "10:00",
+            "ArrivalTime": "14:00",
+            "DepartureAirport": "JFK",
+            "ArrivalAirport": "CDG",
+            "Price": 500
+        },
+        {
+            "_id": "flight4",
+            "Airline": "Air France",
+            "DepartureTime": "10:00",
+            "ArrivalTime": "14:00",
+            "DepartureAirport": "JFK",
+            "ArrivalAirport": "CDG",
+            "Price": 500
+        },
+        {
+            "_id": "flight5",
+            "Airline": "Alitalia",
+            "DepartureTime": "10:00",
+            "ArrivalTime": "14:00",
+            "DepartureAirport": "JFK",
+            "ArrivalAirport": "CDG",
+            "Price": 500
+        }
+    ],
+    "activities": [
+        {
+            "_id": "activity1",
+            "DestinationID": "destination1",
+            "Name": "Museum Tour",
+            "Description": "Guided tour of the main attractions.",
+            "Type": "Culture"
+        },
+        {
+            "_id": "activity2",
+            "DestinationID": "destination2",
+            "Name": "City Tour",
+            "Description": "Guided tour of the main attractions.",
+            "Type": "Culture"
+        },
+        {
+            "_id": "activity3",
+            "DestinationID": "destination3",
+            "Name": "Beach Day",
+            "Description": "Guided tour of the main attractions.",
+            "Type": "Culture"
+        },
+        {
+            "_id": "activity4",
+            "DestinationID": "destination1",
+            "Name": "Museum Tour",
+            "Description": "Guided tour of the main attractions.",
+            "Type": "Culture"
+        },
+        {
+            "_id": "activity5",
+            "DestinationID": "destination2",
+            "Name": "City Tour",
+            "Description": "Guided tour of the main attractions.",
+            "Type": "Culture"
+        }
+    ],
+    "reviews": [
+        {
+            "_id": "review1",
+            "UserID": "user1",
+            "TripID": "trip1",
+            "Rating": 2,
+            "Comments": "It was an amazing trip!",
+            "Date": "2024-06-11"
+        },
+        {
+            "_id": "review2",
+            "UserID": "user2",
+            "TripID": "trip2",
+            "Rating": 5,
+            "Comments": "It was an amazing trip!",
+            "Date": "2024-06-11"
+        },
+        {
+            "_id": "review3",
+            "UserID": "user3",
+            "TripID": "trip3",
+            "Rating": 1,
+            "Comments": "It was an amazing trip!",
+            "Date": "2024-06-11"
+        },
+        {
+            "_id": "review4",
+            "UserID": "user4",
+            "TripID": "trip4",
+            "Rating": 5,
+            "Comments": "It was an amazing trip!",
+            "Date": "2024-06-11"
+        },
+        {
+            "_id": "review5",
+            "UserID": "user5",
+            "TripID": "trip5",
+            "Rating": 4,
+            "Comments": "It was an amazing trip!",
+            "Date": "2024-06-11"
+        }
+    ],
+    "payments": [
+        {
+            "_id": "payment1",
+            "BookingID": "booking1",
+            "FlightID": "flight1",
+            "Amount": 500,
+            "PaymentDate": "2024-05-21",
+            "PaymentMethod": "Credit Card"
+        },
+        {
+            "_id": "payment2",
+            "BookingID": "booking2",
+            "FlightID": "flight2",
+            "Amount": 500,
+            "PaymentDate": "2024-05-21",
+            "PaymentMethod": "Credit Card"
+        },
+        {
+            "_id": "payment3",
+            "BookingID": "booking3",
+            "FlightID": "flight3",
+            "Amount": 500,
+            "PaymentDate": "2024-05-21",
+            "PaymentMethod": "Credit Card"
+        },
+        {
+            "_id": "payment4",
+            "BookingID": "booking4",
+            "FlightID": "flight4",
+            "Amount": 500,
+            "PaymentDate": "2024-05-21",
+            "PaymentMethod": "Credit Card"
+        },
+        {
+            "_id": "payment5",
+            "BookingID": "booking5",
+            "FlightID": "flight5",
+            "Amount": 500,
+            "PaymentDate": "2024-05-21",
+            "PaymentMethod": "Credit Card"
+        }
+    ],
+    "packing_checklists": [
+        {
+            "_id": "checklist1",
+            "UserID": "user1",
+            "TripID": "trip1",
+            "ItemName": "Passport",
+            "Status": "Packed"
+        },
+        {
+            "_id": "checklist2",
+            "UserID": "user2",
+            "TripID": "trip2",
+            "ItemName": "Clothes",
+            "Status": "Packed"
+        },
+        {
+            "_id": "checklist3",
+            "UserID": "user3",
+            "TripID": "trip3",
+            "ItemName": "Camera",
+            "Status": "Packed"
+        },
+        {
+            "_id": "checklist4",
+            "UserID": "user4",
+            "TripID": "trip4",
+            "ItemName": "Sunscreen",
+            "Status": "Packed"
+        },
+        {
+            "_id": "checklist5",
+            "UserID": "user5",
+            "TripID": "trip5",
+            "ItemName": "Tickets",
+            "Status": "Packed"
+        }
+    ]
+}

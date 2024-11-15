@@ -1,0 +1,1232 @@
+[
+    {
+        "name": "Aerospatiale (Nord) 262",
+        "additional_code": "ND2",
+        "code": "N262"
+    },
+    {
+        "name": "Aerospatiale (Sud Aviation) Se.210 Caravelle",
+        "additional_code": "CRV",
+        "code": "S210"
+    },
+    {
+        "name": "Aerospatiale SN.601 Corvette",
+        "additional_code": "NDC",
+        "code": "S601"
+    },
+    {
+        "name": "Aerospatiale/Alenia ATR 42-300",
+        "additional_code": "AT4",
+        "code": "AT43"
+    },
+    {
+        "name": "Aerospatiale/Alenia ATR 42-500",
+        "additional_code": "AT5",
+        "code": "AT45"
+    },
+    {
+        "name": "Aerospatiale/Alenia ATR 42-600",
+        "additional_code": "ATR",
+        "code": "AT46"
+    },
+    {
+        "name": "Aerospatiale/Alenia ATR 72",
+        "additional_code": "AT7",
+        "code": "AT72"
+    },
+    {
+        "name": "Airbus A300",
+        "additional_code": "AB3",
+        "code": "A30B"
+    },
+    {
+        "name": "Airbus A300-600",
+        "additional_code": "AB6",
+        "code": "A306"
+    },
+    {
+        "name": "Airbus A300-600ST Super Transporter / Beluga",
+        "additional_code": "ABB",
+        "code": "A3ST"
+    },
+    {
+        "name": "Airbus A310",
+        "additional_code": "310",
+        "code": "A310"
+    },
+    {
+        "name": "Airbus A318",
+        "additional_code": "318",
+        "code": "A318"
+    },
+    {
+        "name": "Airbus A319",
+        "additional_code": "319",
+        "code": "A319"
+    },
+    {
+        "name": "Airbus A319neo",
+        "additional_code": "31N",
+        "code": "A19N"
+    },
+    {
+        "name": "Airbus A320",
+        "additional_code": "320",
+        "code": "A320"
+    },
+    {
+        "name": "Airbus A320neo",
+        "additional_code": "32N",
+        "code": "A20N"
+    },
+    {
+        "name": "Airbus A321",
+        "additional_code": "321",
+        "code": "A321"
+    },
+    {
+        "name": "Airbus A321neo",
+        "additional_code": "32Q",
+        "code": "A21N"
+    },
+    {
+        "name": "Airbus A330",
+        "additional_code": "330",
+        "code": "\\N"
+    },
+    {
+        "name": "Airbus A330-200",
+        "additional_code": "332",
+        "code": "A332"
+    },
+    {
+        "name": "Airbus A330-300",
+        "additional_code": "333",
+        "code": "A333"
+    },
+    {
+        "name": "Airbus A330-700 Beluga XL",
+        "additional_code": "\\N",
+        "code": "A337"
+    },
+    {
+        "name": "Airbus A330-800neo",
+        "additional_code": "338",
+        "code": "A338"
+    },
+    {
+        "name": "Airbus A330-900neo",
+        "additional_code": "339",
+        "code": "A339"
+    },
+    {
+        "name": "Airbus A340",
+        "additional_code": "340",
+        "code": "\\N"
+    },
+    {
+        "name": "Airbus A340-200",
+        "additional_code": "342",
+        "code": "A342"
+    },
+    {
+        "name": "Airbus A340-300",
+        "additional_code": "343",
+        "code": "A343"
+    },
+    {
+        "name": "Airbus A340-500",
+        "additional_code": "345",
+        "code": "A345"
+    },
+    {
+        "name": "Airbus A340-600",
+        "additional_code": "346",
+        "code": "A346"
+    },
+    {
+        "name": "Airbus A350",
+        "additional_code": "350",
+        "code": "\\N"
+    },
+    {
+        "name": "Airbus A350-1000",
+        "additional_code": "351",
+        "code": "A35K"
+    },
+    {
+        "name": "Airbus A350-900",
+        "additional_code": "359",
+        "code": "A359"
+    },
+    {
+        "name": "Airbus A380",
+        "additional_code": "380",
+        "code": "\\N"
+    },
+    {
+        "name": "Airbus A380-800",
+        "additional_code": "388",
+        "code": "A388"
+    },
+    {
+        "name": "Antonov AN-12",
+        "additional_code": "ANF",
+        "code": "AN12"
+    },
+    {
+        "name": "Antonov AN-124 Ruslan",
+        "additional_code": "A4F",
+        "code": "A124"
+    },
+    {
+        "name": "Antonov AN-140",
+        "additional_code": "A40",
+        "code": "A140"
+    },
+    {
+        "name": "Antonov An-148",
+        "additional_code": "A81",
+        "code": "A148"
+    },
+    {
+        "name": "Antonov An-158",
+        "additional_code": "A58",
+        "code": "A158"
+    },
+    {
+        "name": "Antonov An-225 Mriya",
+        "additional_code": "A25",
+        "code": "A225"
+    },
+    {
+        "name": "Antonov AN-24",
+        "additional_code": "AN4",
+        "code": "AN24"
+    },
+    {
+        "name": "Antonov AN-26",
+        "additional_code": "A26",
+        "code": "AN26"
+    },
+    {
+        "name": "Antonov AN-28",
+        "additional_code": "A28",
+        "code": "AN28"
+    },
+    {
+        "name": "Antonov AN-30",
+        "additional_code": "A30",
+        "code": "AN30"
+    },
+    {
+        "name": "Antonov AN-32",
+        "additional_code": "A32",
+        "code": "AN32"
+    },
+    {
+        "name": "Antonov AN-72",
+        "additional_code": "AN7",
+        "code": "AN72"
+    },
+    {
+        "name": "Avro RJ100",
+        "additional_code": "AR1",
+        "code": "RJ1H"
+    },
+    {
+        "name": "Avro RJ70",
+        "additional_code": "AR7",
+        "code": "RJ70"
+    },
+    {
+        "name": "Avro RJ85",
+        "additional_code": "AR8",
+        "code": "RJ85"
+    },
+    {
+        "name": "BAe 146",
+        "additional_code": "146",
+        "code": "\\N"
+    },
+    {
+        "name": "BAe 146-100",
+        "additional_code": "141",
+        "code": "B461"
+    },
+    {
+        "name": "BAe 146-200",
+        "additional_code": "142",
+        "code": "B462"
+    },
+    {
+        "name": "BAe 146-300",
+        "additional_code": "143",
+        "code": "B463"
+    },
+    {
+        "name": "Beechcraft 1900",
+        "additional_code": "BEH",
+        "code": "B190"
+    },
+    {
+        "name": "Beechcraft Baron",
+        "additional_code": "\\N",
+        "code": "BE58"
+    },
+    {
+        "name": "Beechcraft Baron / 55 Baron",
+        "additional_code": "\\N",
+        "code": "BE55"
+    },
+    {
+        "name": "Bell 212",
+        "additional_code": "BH2",
+        "code": "B212"
+    },
+    {
+        "name": "Boeing 707",
+        "additional_code": "703",
+        "code": "B703"
+    },
+    {
+        "name": "Boeing 717",
+        "additional_code": "717",
+        "code": "B712"
+    },
+    {
+        "name": "Boeing 720B",
+        "additional_code": "B72",
+        "code": "B720"
+    },
+    {
+        "name": "Boeing 727",
+        "additional_code": "727",
+        "code": "\\N"
+    },
+    {
+        "name": "Boeing 727-100",
+        "additional_code": "721",
+        "code": "B721"
+    },
+    {
+        "name": "Boeing 727-200",
+        "additional_code": "722",
+        "code": "B722"
+    },
+    {
+        "name": "Boeing 737",
+        "additional_code": "737",
+        "code": "\\N"
+    },
+    {
+        "name": "Boeing 737 MAX 10",
+        "additional_code": "7MJ",
+        "code": "\\N"
+    },
+    {
+        "name": "Boeing 737 MAX 7",
+        "additional_code": "7M7",
+        "code": "B37M"
+    },
+    {
+        "name": "Boeing 737 MAX 8",
+        "additional_code": "7M8",
+        "code": "B38M"
+    },
+    {
+        "name": "Boeing 737 MAX 9",
+        "additional_code": "7M9",
+        "code": "B39M"
+    },
+    {
+        "name": "Boeing 737-200",
+        "additional_code": "732",
+        "code": "B732"
+    },
+    {
+        "name": "Boeing 737-300",
+        "additional_code": "733",
+        "code": "B733"
+    },
+    {
+        "name": "Boeing 737-400",
+        "additional_code": "734",
+        "code": "B734"
+    },
+    {
+        "name": "Boeing 737-500",
+        "additional_code": "735",
+        "code": "B735"
+    },
+    {
+        "name": "Boeing 737-600",
+        "additional_code": "736",
+        "code": "B736"
+    },
+    {
+        "name": "Boeing 737-700",
+        "additional_code": "73G",
+        "code": "B737"
+    },
+    {
+        "name": "Boeing 737-800",
+        "additional_code": "738",
+        "code": "B738"
+    },
+    {
+        "name": "Boeing 737-900",
+        "additional_code": "739",
+        "code": "B739"
+    },
+    {
+        "name": "Boeing 747",
+        "additional_code": "747",
+        "code": "\\N"
+    },
+    {
+        "name": "Boeing 747 LCF Dreamlifter",
+        "additional_code": "74B",
+        "code": "BLCF"
+    },
+    {
+        "name": "Boeing 747-100",
+        "additional_code": "741",
+        "code": "B741"
+    },
+    {
+        "name": "Boeing 747-200",
+        "additional_code": "742",
+        "code": "B742"
+    },
+    {
+        "name": "Boeing 747-300",
+        "additional_code": "743",
+        "code": "B743"
+    },
+    {
+        "name": "Boeing 747-400",
+        "additional_code": "744",
+        "code": "B744"
+    },
+    {
+        "name": "Boeing 747-400D",
+        "additional_code": "74J",
+        "code": "B74D"
+    },
+    {
+        "name": "Boeing 747-8",
+        "additional_code": "748",
+        "code": "B748"
+    },
+    {
+        "name": "Boeing 747SP",
+        "additional_code": "74L",
+        "code": "B74S"
+    },
+    {
+        "name": "Boeing 747SR",
+        "additional_code": "74R",
+        "code": "B74R"
+    },
+    {
+        "name": "Boeing 757",
+        "additional_code": "757",
+        "code": "\\N"
+    },
+    {
+        "name": "Boeing 757-200",
+        "additional_code": "752",
+        "code": "B752"
+    },
+    {
+        "name": "Boeing 757-300",
+        "additional_code": "753",
+        "code": "B753"
+    },
+    {
+        "name": "Boeing 767",
+        "additional_code": "767",
+        "code": "\\N"
+    },
+    {
+        "name": "Boeing 767-200",
+        "additional_code": "762",
+        "code": "B762"
+    },
+    {
+        "name": "Boeing 767-300",
+        "additional_code": "763",
+        "code": "B763"
+    },
+    {
+        "name": "Boeing 767-400",
+        "additional_code": "764",
+        "code": "B764"
+    },
+    {
+        "name": "Boeing 777",
+        "additional_code": "777",
+        "code": "\\N"
+    },
+    {
+        "name": "Boeing 777-200",
+        "additional_code": "772",
+        "code": "B772"
+    },
+    {
+        "name": "Boeing 777-200LR",
+        "additional_code": "77L",
+        "code": "B77L"
+    },
+    {
+        "name": "Boeing 777-300",
+        "additional_code": "773",
+        "code": "B773"
+    },
+    {
+        "name": "Boeing 777-300ER",
+        "additional_code": "77W",
+        "code": "B77W"
+    },
+    {
+        "name": "Boeing 777-8",
+        "additional_code": "778",
+        "code": "B778"
+    },
+    {
+        "name": "Boeing 777-9",
+        "additional_code": "779",
+        "code": "B779"
+    },
+    {
+        "name": "Boeing 787",
+        "additional_code": "787",
+        "code": "\\N"
+    },
+    {
+        "name": "Boeing 787-10",
+        "additional_code": "78J",
+        "code": "B78X"
+    },
+    {
+        "name": "Boeing 787-8",
+        "additional_code": "788",
+        "code": "B788"
+    },
+    {
+        "name": "Boeing 787-9",
+        "additional_code": "789",
+        "code": "B789"
+    },
+    {
+        "name": "Bombardier 415",
+        "additional_code": "\\N",
+        "code": "CL2T"
+    },
+    {
+        "name": "Bombardier BD-100 Challenger 300",
+        "additional_code": "\\N",
+        "code": "CL30"
+    },
+    {
+        "name": "Bombardier CS100",
+        "additional_code": "CS1",
+        "code": "BCS1"
+    },
+    {
+        "name": "Bombardier CS300",
+        "additional_code": "CS3",
+        "code": "BCS3"
+    },
+    {
+        "name": "Bombardier Global Express",
+        "additional_code": "CCX",
+        "code": "GLEX"
+    },
+    {
+        "name": "British Aerospace (BAC) One Eleven",
+        "additional_code": "B11",
+        "code": "BA11"
+    },
+    {
+        "name": "British Aerospace 125 series / Hawker/Raytheon 700/800/800XP/850/900",
+        "additional_code": "H25",
+        "code": "H25B"
+    },
+    {
+        "name": "British Aerospace 125-1000 series / Hawker/Raytheon 1000",
+        "additional_code": "H25",
+        "code": "H25C"
+    },
+    {
+        "name": "British Aerospace ATP",
+        "additional_code": "ATP",
+        "code": "ATP"
+    },
+    {
+        "name": "British Aerospace Jetstream 31",
+        "additional_code": "J31",
+        "code": "JS31"
+    },
+    {
+        "name": "British Aerospace Jetstream 32",
+        "additional_code": "J32",
+        "code": "JS32"
+    },
+    {
+        "name": "British Aerospace Jetstream 41",
+        "additional_code": "J41",
+        "code": "JS41"
+    },
+    {
+        "name": "Canadair Challenger",
+        "additional_code": "CCJ",
+        "code": "CL60"
+    },
+    {
+        "name": "Canadair CL-44",
+        "additional_code": "CL4",
+        "code": "CL44"
+    },
+    {
+        "name": "Canadair Regional Jet 100",
+        "additional_code": "CR1",
+        "code": "CRJ1"
+    },
+    {
+        "name": "Canadair Regional Jet 1000",
+        "additional_code": "CRK",
+        "code": "CRJX"
+    },
+    {
+        "name": "Canadair Regional Jet 200",
+        "additional_code": "CR2",
+        "code": "CRJ2"
+    },
+    {
+        "name": "Canadair Regional Jet 700",
+        "additional_code": "CR7",
+        "code": "CRJ7"
+    },
+    {
+        "name": "Canadair Regional Jet 900",
+        "additional_code": "CR9",
+        "code": "CRJ9"
+    },
+    {
+        "name": "Cessna 152",
+        "additional_code": "\\N",
+        "code": "C152"
+    },
+    {
+        "name": "Cessna 172",
+        "additional_code": "CN1",
+        "code": "C172"
+    },
+    {
+        "name": "Cessna 182 Skylane",
+        "additional_code": "CN1",
+        "code": "C182"
+    },
+    {
+        "name": "Cessna 208 Caravan",
+        "additional_code": "CN1",
+        "code": "C208"
+    },
+    {
+        "name": "Cessna 210 Centurion",
+        "additional_code": "CN1",
+        "code": "C210"
+    },
+    {
+        "name": "Cessna Citation CJ3",
+        "additional_code": "CNJ",
+        "code": "C25B"
+    },
+    {
+        "name": "Cessna Citation CJ4",
+        "additional_code": "CNJ",
+        "code": "C25C"
+    },
+    {
+        "name": "Cessna Citation Excel",
+        "additional_code": "CNJ",
+        "code": "C56X"
+    },
+    {
+        "name": "Cessna Citation I",
+        "additional_code": "CNJ",
+        "code": "C500"
+    },
+    {
+        "name": "Cessna Citation II",
+        "additional_code": "CNJ",
+        "code": "C550"
+    },
+    {
+        "name": "Cessna Citation Mustang",
+        "additional_code": "CNJ",
+        "code": "C510"
+    },
+    {
+        "name": "Cessna Citation Sovereign",
+        "additional_code": "CNJ",
+        "code": "C680"
+    },
+    {
+        "name": "Cessna Citation X",
+        "additional_code": "CNJ",
+        "code": "C750"
+    },
+    {
+        "name": "COMAC C-919",
+        "additional_code": "\\N",
+        "code": "C919"
+    },
+    {
+        "name": "Concorde",
+        "additional_code": "SSC",
+        "code": "CONC"
+    },
+    {
+        "name": "Dassault Falcon 2000",
+        "additional_code": "D20",
+        "code": "F2TH"
+    },
+    {
+        "name": "Dassault Falcon 50",
+        "additional_code": "DF3",
+        "code": "FA50"
+    },
+    {
+        "name": "Dassault Falcon 7X",
+        "additional_code": "DF7",
+        "code": "FA7X"
+    },
+    {
+        "name": "Dassault Falcon 900",
+        "additional_code": "DF9",
+        "code": "F900"
+    },
+    {
+        "name": "De Havilland Canada DHC-2 Beaver",
+        "additional_code": "DHP",
+        "code": "DHC2"
+    },
+    {
+        "name": "De Havilland Canada DHC-2 Turbo-Beaver",
+        "additional_code": "DHR",
+        "code": "DH2T"
+    },
+    {
+        "name": "De Havilland Canada DHC-3 Otter",
+        "additional_code": "DHL",
+        "code": "DHC3"
+    },
+    {
+        "name": "De Havilland Canada DHC-4 Caribou",
+        "additional_code": "DHC",
+        "code": "DHC4"
+    },
+    {
+        "name": "De Havilland Canada DHC-6 Twin Otter",
+        "additional_code": "DHT",
+        "code": "DHC6"
+    },
+    {
+        "name": "De Havilland Canada DHC-7 Dash 7",
+        "additional_code": "DH7",
+        "code": "DHC7"
+    },
+    {
+        "name": "De Havilland Canada DHC-8-100 Dash 8 / 8Q",
+        "additional_code": "DH1",
+        "code": "DH8A"
+    },
+    {
+        "name": "De Havilland Canada DHC-8-200 Dash 8 / 8Q",
+        "additional_code": "DH2",
+        "code": "DH8B"
+    },
+    {
+        "name": "De Havilland Canada DHC-8-300 Dash 8",
+        "additional_code": "DH3",
+        "code": "DH8C"
+    },
+    {
+        "name": "De Havilland Canada DHC-8-400 Dash 8Q",
+        "additional_code": "DH4",
+        "code": "DH8D"
+    },
+    {
+        "name": "De Havilland DH.104 Dove",
+        "additional_code": "DHD",
+        "code": "DOVE"
+    },
+    {
+        "name": "De Havilland DH.114 Heron",
+        "additional_code": "DHH",
+        "code": "HERN"
+    },
+    {
+        "name": "Douglas DC-10",
+        "additional_code": "D10",
+        "code": "DC10"
+    },
+    {
+        "name": "Douglas DC-3",
+        "additional_code": "D3F",
+        "code": "DC3"
+    },
+    {
+        "name": "Douglas DC-6",
+        "additional_code": "D6F",
+        "code": "DC6"
+    },
+    {
+        "name": "Douglas DC-8-50",
+        "additional_code": "D8T",
+        "code": "DC85"
+    },
+    {
+        "name": "Douglas DC-8-62",
+        "additional_code": "D8L",
+        "code": "DC86"
+    },
+    {
+        "name": "Douglas DC-8-72",
+        "additional_code": "D8Q",
+        "code": "DC87"
+    },
+    {
+        "name": "Douglas DC-9-10",
+        "additional_code": "D91",
+        "code": "DC91"
+    },
+    {
+        "name": "Douglas DC-9-20",
+        "additional_code": "D92",
+        "code": "DC92"
+    },
+    {
+        "name": "Douglas DC-9-30",
+        "additional_code": "D93",
+        "code": "DC93"
+    },
+    {
+        "name": "Douglas DC-9-40",
+        "additional_code": "D94",
+        "code": "DC94"
+    },
+    {
+        "name": "Douglas DC-9-50",
+        "additional_code": "D95",
+        "code": "DC95"
+    },
+    {
+        "name": "Embraer 170",
+        "additional_code": "E70",
+        "code": "E170"
+    },
+    {
+        "name": "Embraer 175",
+        "additional_code": "E75",
+        "code": "\\N"
+    },
+    {
+        "name": "Embraer 175 (long wing)",
+        "additional_code": "E7W",
+        "code": "E75L"
+    },
+    {
+        "name": "Embraer 175 (short wing)",
+        "additional_code": "E7W",
+        "code": "E75S"
+    },
+    {
+        "name": "Embraer 190",
+        "additional_code": "E90",
+        "code": "E190"
+    },
+    {
+        "name": "Embraer 195",
+        "additional_code": "E95",
+        "code": "E195"
+    },
+    {
+        "name": "Embraer E190-E2",
+        "additional_code": "290",
+        "code": "E290"
+    },
+    {
+        "name": "Embraer E195-E2",
+        "additional_code": "295",
+        "code": "E295"
+    },
+    {
+        "name": "Embraer EMB 110 Bandeirante",
+        "additional_code": "EMB",
+        "code": "E110"
+    },
+    {
+        "name": "Embraer EMB 120 Brasilia",
+        "additional_code": "EM2",
+        "code": "E120"
+    },
+    {
+        "name": "Embraer Legacy 450",
+        "additional_code": "\\N",
+        "code": "E545"
+    },
+    {
+        "name": "Embraer Legacy 600",
+        "additional_code": "ER3",
+        "code": "E35L"
+    },
+    {
+        "name": "Embraer Phenom 100",
+        "additional_code": "EP1",
+        "code": "E50P"
+    },
+    {
+        "name": "Embraer Phenom 300",
+        "additional_code": "EP3",
+        "code": "E55P"
+    },
+    {
+        "name": "Embraer RJ135",
+        "additional_code": "ER3",
+        "code": "E135"
+    },
+    {
+        "name": "Embraer RJ140",
+        "additional_code": "ERD",
+        "code": "E135"
+    },
+    {
+        "name": "Embraer RJ145",
+        "additional_code": "ER4",
+        "code": "E145"
+    },
+    {
+        "name": "Fairchild Dornier 328JET",
+        "additional_code": "FRJ",
+        "code": "J328"
+    },
+    {
+        "name": "Fairchild Dornier Do.228",
+        "additional_code": "D28",
+        "code": "D228"
+    },
+    {
+        "name": "Fairchild Dornier Do.328",
+        "additional_code": "D38",
+        "code": "D328"
+    },
+    {
+        "name": "Fokker 100",
+        "additional_code": "100",
+        "code": "F100"
+    },
+    {
+        "name": "Fokker 50",
+        "additional_code": "F50",
+        "code": "F50"
+    },
+    {
+        "name": "Fokker 70",
+        "additional_code": "F70",
+        "code": "F70"
+    },
+    {
+        "name": "Fokker F27 Friendship",
+        "additional_code": "F27",
+        "code": "F27"
+    },
+    {
+        "name": "Fokker F28 Fellowship",
+        "additional_code": "F21",
+        "code": "F28"
+    },
+    {
+        "name": "Gulfstream Aerospace G-159 Gulfstream I",
+        "additional_code": "GRS",
+        "code": "G159"
+    },
+    {
+        "name": "Gulfstream G280",
+        "additional_code": "GR3",
+        "code": "G280"
+    },
+    {
+        "name": "Gulfstream G650",
+        "additional_code": "GJ6",
+        "code": "GLF6"
+    },
+    {
+        "name": "Gulfstream IV",
+        "additional_code": "GJ4",
+        "code": "GLF4"
+    },
+    {
+        "name": "Gulfstream V",
+        "additional_code": "GJ5",
+        "code": "GLF5"
+    },
+    {
+        "name": "Gulfstream/Rockwell (Aero) Commander",
+        "additional_code": "ACP",
+        "code": "AC68"
+    },
+    {
+        "name": "Gulfstream/Rockwell (Aero) Turbo Commander",
+        "additional_code": "ACT",
+        "code": "AC90"
+    },
+    {
+        "name": "Harbin Yunshuji Y12",
+        "additional_code": "YN2",
+        "code": "Y12"
+    },
+    {
+        "name": "Hawker Siddeley HS 748",
+        "additional_code": "HS7",
+        "code": "A748"
+    },
+    {
+        "name": "Ilyushin IL114",
+        "additional_code": "I14",
+        "code": "I114"
+    },
+    {
+        "name": "Ilyushin IL18",
+        "additional_code": "IL8",
+        "code": "IL18"
+    },
+    {
+        "name": "Ilyushin IL62",
+        "additional_code": "IL6",
+        "code": "IL62"
+    },
+    {
+        "name": "Ilyushin IL76",
+        "additional_code": "IL7",
+        "code": "IL76"
+    },
+    {
+        "name": "Ilyushin IL86",
+        "additional_code": "ILW",
+        "code": "IL86"
+    },
+    {
+        "name": "Ilyushin IL96",
+        "additional_code": "I93",
+        "code": "IL96"
+    },
+    {
+        "name": "Learjet 35",
+        "additional_code": "LRJ",
+        "code": "LJ35"
+    },
+    {
+        "name": "Learjet 60",
+        "additional_code": "LRJ",
+        "code": "LJ60"
+    },
+    {
+        "name": "Lockheed L-1011 Tristar",
+        "additional_code": "L10",
+        "code": "L101"
+    },
+    {
+        "name": "Lockheed L-1049 Super Constellation",
+        "additional_code": "L49",
+        "code": "CONI"
+    },
+    {
+        "name": "Lockheed L-182 / 282 / 382 (L-100) Hercules",
+        "additional_code": "LOH",
+        "code": "C130"
+    },
+    {
+        "name": "Lockheed L-188 Electra",
+        "additional_code": "LOE",
+        "code": "L188"
+    },
+    {
+        "name": "McDonnell Douglas MD-11",
+        "additional_code": "M11",
+        "code": "MD11"
+    },
+    {
+        "name": "McDonnell Douglas MD-81",
+        "additional_code": "M81",
+        "code": "MD81"
+    },
+    {
+        "name": "McDonnell Douglas MD-82",
+        "additional_code": "M82",
+        "code": "MD82"
+    },
+    {
+        "name": "McDonnell Douglas MD-83",
+        "additional_code": "M83",
+        "code": "MD83"
+    },
+    {
+        "name": "McDonnell Douglas MD-87",
+        "additional_code": "M87",
+        "code": "MD87"
+    },
+    {
+        "name": "McDonnell Douglas MD-88",
+        "additional_code": "M88",
+        "code": "MD88"
+    },
+    {
+        "name": "McDonnell Douglas MD-90",
+        "additional_code": "M90",
+        "code": "MD90"
+    },
+    {
+        "name": "NAMC YS-11",
+        "additional_code": "YS1",
+        "code": "YS11"
+    },
+    {
+        "name": "Partenavia P.68",
+        "additional_code": "PN6",
+        "code": "P68"
+    },
+    {
+        "name": "Pilatus Britten-Norman BN-2A Mk III Trislander",
+        "additional_code": "BNT",
+        "code": "TRIS"
+    },
+    {
+        "name": "Pilatus Britten-Norman BN-2A/B Islander",
+        "additional_code": "BNI",
+        "code": "BN2P"
+    },
+    {
+        "name": "Pilatus PC-12",
+        "additional_code": "PL2",
+        "code": "PC12"
+    },
+    {
+        "name": "Pilatus PC-6 Turbo Porter",
+        "additional_code": "PL6",
+        "code": "PC6T"
+    },
+    {
+        "name": "Piper PA-28\u00a0(above 200\u00a0hp)",
+        "additional_code": "\\N",
+        "code": "P28B"
+    },
+    {
+        "name": "Piper PA-28\u00a0(up to 180\u00a0hp)",
+        "additional_code": "\\N",
+        "code": "P28A"
+    },
+    {
+        "name": "Piper PA-31 Navajo",
+        "additional_code": "PA2",
+        "code": "PA31"
+    },
+    {
+        "name": "Piper PA-44 Seminole",
+        "additional_code": "\\N",
+        "code": "PA44"
+    },
+    {
+        "name": "Piper PA-46",
+        "additional_code": "PAG",
+        "code": "PA46"
+    },
+    {
+        "name": "Saab 2000",
+        "additional_code": "S20",
+        "code": "SB20"
+    },
+    {
+        "name": "Saab SF340A/B",
+        "additional_code": "SF3",
+        "code": "SF34"
+    },
+    {
+        "name": "Shorts SC-5 Belfast",
+        "additional_code": "SHB",
+        "code": "BELF"
+    },
+    {
+        "name": "Shorts SC-7 Skyvan",
+        "additional_code": "SHS",
+        "code": "SC7"
+    },
+    {
+        "name": "Shorts SD.330",
+        "additional_code": "SH3",
+        "code": "SH33"
+    },
+    {
+        "name": "Shorts SD.360",
+        "additional_code": "SH6",
+        "code": "SH36"
+    },
+    {
+        "name": "Sikorsky S-58T",
+        "additional_code": "S58",
+        "code": "S58T"
+    },
+    {
+        "name": "Sikorsky S-61",
+        "additional_code": "S61",
+        "code": "S61"
+    },
+    {
+        "name": "Sikorsky S-76",
+        "additional_code": "S76",
+        "code": "S76"
+    },
+    {
+        "name": "Sikorsky S-92",
+        "additional_code": "S92",
+        "code": "S92"
+    },
+    {
+        "name": "Sukhoi Superjet 100-95",
+        "additional_code": "SU9",
+        "code": "SU95"
+    },
+    {
+        "name": "Tupolev Tu-134",
+        "additional_code": "TU3",
+        "code": "T134"
+    },
+    {
+        "name": "Tupolev Tu-144",
+        "additional_code": "\\N",
+        "code": "T144"
+    },
+    {
+        "name": "Tupolev Tu-154",
+        "additional_code": "TU5",
+        "code": "T154"
+    },
+    {
+        "name": "Tupolev Tu-204",
+        "additional_code": "T20",
+        "code": "T204"
+    },
+    {
+        "name": "Yakovlev Yak-40",
+        "additional_code": "YK4",
+        "code": "YK40"
+    },
+    {
+        "name": "Yakovlev Yak-42",
+        "additional_code": "YK2",
+        "code": "YK42"
+    }
+]

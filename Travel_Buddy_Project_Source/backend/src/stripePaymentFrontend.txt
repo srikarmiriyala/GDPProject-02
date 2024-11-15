@@ -1,0 +1,25 @@
+<!-- Add this script to your HTML -->
+<script src="https://js.stripe.com/v3/"></script>
+
+// Example frontend code to get the Stripe token
+const stripe = Stripe('your_stripe_publishable_key');
+
+const handlePayment = async () => {
+  const { token } = await stripe.createToken(cardElement); // cardElement is a reference to the card input field
+
+  // Send token to your backend
+  const response = await fetch('/payments/process', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      userId: 1,
+      bookingId: 1,
+      token: token.id,
+    }),
+  });
+
+  const result = await response.json();
+  console.log(result);
+};

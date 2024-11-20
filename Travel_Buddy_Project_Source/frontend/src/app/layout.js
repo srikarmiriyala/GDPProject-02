@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Flight Booking App",
-  description: "Developed by Uday - https://Uday.vercel.app",
+  description: "TravelBuddy is a travel planning and itinerary management application that helps users organize their trips, book accommodations, and discover attractions",
 };
 
 export default function RootLayout({ children }) {

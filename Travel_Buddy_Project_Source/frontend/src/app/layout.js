@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Flight Booking App",
-  description: "Developed by Nadim Chowdhury - https://nadim.vercel.app",
+  description: "Developed by Uday - https://Uday.vercel.app",
 };
 
 export default function RootLayout({ children }) {

@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Flight Booking App",
-  description: "Travel Buddy is a travel planning and itinerary management application that helps users organize their trips, book accommodations, and discover attractions",
+  description: "Developed by Nadim Chowdhury - https://nadim.vercel.app",
 };
 
 export default function RootLayout({ children }) {
@@ -24,9 +24,7 @@ export default function RootLayout({ children }) {
         <StoreProviderWrapper>
           <CookieProvider>
             <Header />
-            <main className="px-4 pb-4 md:px-6 md:pb-6">
-              <Suspense>{children}</Suspense>
-            </main>
+            <Suspense>{children}</Suspense>
             <Footer />
             {/* <div className="bg-slate-900 text-white py-4 text-center">
               <p>

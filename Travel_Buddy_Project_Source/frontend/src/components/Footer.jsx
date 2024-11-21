@@ -40,7 +40,7 @@ export default function Footer() {
   };
 
   return (
-    <footer className="bg-slate-900 text-slate-300 pt-16 pb-4 rounded-xl mt-4 md:mt-6 mx-4 mb-4 md:mx-6 md:mb-6">
+    <footer className="bg-slate-900 text-slate-300 pt-16 pb-4">
       <div className="max-w-6xl px-4 mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 text-left">
           {/* About Section */}
@@ -76,9 +76,7 @@ export default function Footer() {
               {footerData.quickLinks.map((link, index) => (
                 <li key={index}>
                   <Link href={link.href}>
-                    <span className="hover:text-white hover:underline">
-                      {link.name}
-                    </span>
+                    <span className="hover:text-white">{link.name}</span>
                   </Link>
                 </li>
               ))}
@@ -92,9 +90,7 @@ export default function Footer() {
               {footerData.supportLinks.map((link, index) => (
                 <li key={index}>
                   <Link href={link.href}>
-                    <span className="hover:text-white hover:underline">
-                      {link.name}
-                    </span>
+                    <span className="hover:text-white">{link.name}</span>
                   </Link>
                 </li>
               ))}

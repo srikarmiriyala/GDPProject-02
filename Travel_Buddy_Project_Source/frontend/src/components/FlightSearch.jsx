@@ -1,5 +1,5 @@
 "use client";
-
+import React from 'react';
 import { useState, useEffect } from "react";
 import { useLazyQuery } from "@apollo/client";
 import { useForm } from "react-hook-form";
@@ -25,15 +25,9 @@ export default function FlightSearch({ onFlightsFound }) {
       <Tabs defaultValue={type || "one-way"}>
         <div className="flex items-start md:justify-start w-full">
           <TabsList className="bg-rose-600/90 text-white p-2 h-11 w-full sm:w-auto">
-            <TabsTrigger value="one-way" className="px-[6px] md:px-3">
-              One Way
-            </TabsTrigger>
-            <TabsTrigger value="return-trip" className="px-[6px] md:px-3">
-              Return Trip
-            </TabsTrigger>
-            <TabsTrigger value="multi-city" className="px-[6px] md:px-3">
-              Multi City
-            </TabsTrigger>
+            <TabsTrigger value="one-way">One Way</TabsTrigger>
+            <TabsTrigger value="return-trip">Return Trip</TabsTrigger>
+            <TabsTrigger value="multi-city">Multi City</TabsTrigger>
           </TabsList>
         </div>
 

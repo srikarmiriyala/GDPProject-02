@@ -5,9 +5,8 @@ import { useRouter } from "next/navigation";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import FlightSearch from "@/components/FlightSearch";
-import MostVisitedCity from "@/components/MostVisitedCity";
 // import FlightList from "../components/FlightList";
-// import MapBox from "@/components/MapBox";
+import MapBox from "@/components/MapBox";
 
 export default function Home() {
   const [flights, setFlights] = useState([]);
@@ -24,7 +23,7 @@ export default function Home() {
       {/* <MapBox /> */}
 
       {/* Hero Section */}
-      <section className="bg-[url('https://images.unsplash.com/photo-1521086248378-5fe2b23c8b23?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-cover bg-no-repeat min-h-[84vh] text-white py-8 md:py-16 rounded-xl">
+      <section className="bg-[url('https://images.unsplash.com/photo-1521086248378-5fe2b23c8b23?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-cover bg-no-repeat min-h-[95vh] text-white py-8 md:py-16">
         <div className="max-w-6xl px-4 mx-auto text-center tracking-wide">
           <h2 className="text-3xl md:text-5xl font-bold mb-8">
             Book Your Next Flight
@@ -37,8 +36,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      <MostVisitedCity />
 
       {/* Features Section */}
       <section className="py-16">
@@ -66,7 +63,7 @@ export default function Home() {
       </section>
 
       {/* Call to Action Section */}
-      <section className="bg-[url('https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-no-repeat bg-cover text-white rounded-xl">
+      <section className="bg-[url('https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-no-repeat bg-cover text-white">
         <div className="max-w-6xl px-4 mx-auto py-16 text-center bg-gradient-to-r from-transparent via-black/50 to-transparent">
           <h2 className="text-3xl font-bold mb-4 tracking-wider">
             Ready to Book Your Flight?

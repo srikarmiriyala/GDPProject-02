@@ -197,7 +197,6 @@ export default function AllFlights() {
       )}
 
       {/* Flight List */}
-      
       <div className="w-full">
         {flights?.data?.map((flight, idx) => (
           <FlightDetails

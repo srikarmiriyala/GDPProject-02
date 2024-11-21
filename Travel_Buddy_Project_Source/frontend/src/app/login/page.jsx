@@ -1,5 +1,5 @@
 "use client";
-
+import React from 'react';
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
@@ -11,6 +11,8 @@ import { Label } from "@/components/ui/label";
 import { Button } from "@/components/ui/button";
 import { useDispatch } from "react-redux";
 import { userLogin } from "@/redux/slices/userSlice";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 export default function Login() {
   const [email, setEmail] = useState("");
@@ -23,8 +25,15 @@ export default function Login() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+  
+    // Validate empty fields
+    if (!email || !password) {
+      toast.error("Please fill out all fields.");
+      return;
+    }
+  
     setLoading(true);
-
+  
     try {
       const response = await axios.post(
         `${process.env.NEXT_PUBLIC_BACKEND_URL}/api/auth/login`,
@@ -34,7 +43,7 @@ export default function Login() {
         }
       );
       const { access_token, user } = response.data;
-
+  
       dispatch(userLogin({ access_token, user }));
       toast.success("Login successful! Redirecting to home...");
       router.push("/");
@@ -45,9 +54,13 @@ export default function Login() {
       setLoading(false);
     }
   };
+  
+  
 
   return (
+
     <div className="min-h-[80vh] md:min-h-[90vh] grid md:grid-cols-2 grid-cols-1">
+      
       {/* Left Image Section */}
       <div className="hidden md:block h-full">
         <Image
@@ -55,16 +68,17 @@ export default function Login() {
           alt="Login Background"
           width={1280}
           height={720}
-          className="h-full w-full object-cover rounded-xl"
+          className="h-full w-full object-cover"
         />
       </div>
 
       {/* Login Form Section */}
       <form
         onSubmit={handleSubmit}
+        data-testid="login-form"
         className="flex flex-col items-center justify-center gap-4 px-6 md:px-12 py-12"
       >
-        <h1 className="text-3xl font-semibold text-sky-600 uppercase">Login</h1>
+        <h1 data-testid="login-title" className="text-3xl font-semibold text-sky-600 uppercase">Login</h1>
 
         <div className="w-full">
           <Label htmlFor="email">Email</Label>
@@ -74,6 +88,7 @@ export default function Login() {
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             className="w-full mt-1 p-3 border rounded-md bg-slate-100"
+            data-testid="email-input"
           />
         </div>
 
@@ -85,6 +100,7 @@ export default function Login() {
             value={password}
             onChange={(e) => setPassword(e.target.value)}
             className="w-full mt-1 p-3 border rounded-md bg-slate-100"
+            data-testid="password-input"
           />
         </div>
 
@@ -92,6 +108,7 @@ export default function Login() {
           type="submit"
           disabled={loading}
           className="w-full bg-sky-600 hover:bg-sky-700 text-white py-2 rounded-md"
+          data-testid="login-button-lower"
         >
           {loading ? "Logging in..." : "Login"}
         </Button>
@@ -105,6 +122,9 @@ export default function Login() {
           </Link>
         </p>
       </form>
-    </div>
+      </div>
+
+      
+    
   );
 }

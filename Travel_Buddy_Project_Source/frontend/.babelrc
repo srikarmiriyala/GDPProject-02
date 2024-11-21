@@ -1,0 +1,10 @@
+// frontend/.babelrc
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react"],
+    "compact": true,
+    "ignore": [
+    "node_modules/mapbox-gl/dist/mapbox-gl.js",
+    "src/utils/all-airports-data.js"
+  ]
+  }
+  
